@@ -9,6 +9,7 @@
 *Self-hosted GLX Mail for users who want to operate the web application on their own Linux server. The installation can be automated with a Windows CMD tool or completed through a browser-based PHP setup page.* ⚡
 
 ![Type](https://img.shields.io/badge/Type-Self--hosted%20web%20application-0082C9)
+![Trial](https://img.shields.io/badge/Free%20trial-14%20days-yellow)
 ![Server](https://img.shields.io/badge/Server-Linux-333333?logo=linux&logoColor=white)
 ![Monthly](https://img.shields.io/badge/Monthly-€2.99-2ea44f)
 ![Annual](https://img.shields.io/badge/Annual-€30.00-2ea44f)
