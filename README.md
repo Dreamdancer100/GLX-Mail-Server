@@ -29,16 +29,20 @@ GLX Mail Server is intended for users who have their own Linux server and want t
 
 ## 📸 Overview & Screenshots
 
-### 1️⃣ Mail view
+### 1️⃣ Login View
+
+<img width="1809" height="885" alt="grafik" src="https://github.com/Dreamdancer100/GLX-Mail-Server/blob/main/Login-Side.png" width="850">
+
+### 2️⃣ Mail View
 
 <p align="center">
-  <img src="https://github.com/Dreamdancer100/GLX-Mail-Server/blob/main/server-mail.png" alt="GLX Mail Server – mail view" width="850">
+  <img src="https://github.com/Dreamdancer100/GLX-Mail-Server/blob/main/server-mail.png" alt="GLX Mail Server – Mail-Ansicht" width="850">
 </p>
 
-### 2️⃣ Calendar view
+### 3️⃣ Calendar View
 
 <p align="center">
-  <img src="https://github.com/Dreamdancer100/GLX-Mail-Server/blob/main/server-calendar.png" alt="GLX Mail Server – calendar view" width="850">
+  <img src="https://github.com/Dreamdancer100/GLX-Mail-Server/blob/main/server-calendar.png" alt="GLX Mail Server – Kalender-Ansicht" width="850">
 </p>
 
 ---
