@@ -31,7 +31,7 @@ GLX Mail Server richtet sich an Anwender mit einem eigenen Linux-Server, die die
 
 ### 1️⃣ Login Seite
 
-<img width="1809" height="885" alt="grafik" src="https://github.com/user-attachments/assets/6ad77792-6913-40fb-975b-43513cf4881f" />
+<img width="1809" height="885" alt="grafik" src="https://github.com/Dreamdancer100/GLX-Mail-Server/blob/main/Login-Side.png" />
 
 ### 1️⃣ Mail-Ansicht
 
