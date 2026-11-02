@@ -26,12 +26,13 @@
 GLX Mail Server is intended for users who have their own Linux server and want to install and operate the GLX Mail web application themselves.
 
 ---
-
 ## 📸 Overview & Screenshots
 
 ### 1️⃣ Login View
 
-<img width="1809" height="885" alt="grafik" src="https://github.com/Dreamdancer100/GLX-Mail-Server/blob/main/Login-Side.png" width="850">
+<p align="center">
+  <img src="https://github.com/Dreamdancer100/GLX-Mail-Server/blob/main/Login-Side.png" alt="GLX Mail Server – Mail-Ansicht" width="850">
+</p>
 
 ### 2️⃣ Mail View
 
