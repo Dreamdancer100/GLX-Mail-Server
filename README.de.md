@@ -27,6 +27,26 @@ GLX Mail Server richtet sich an Anwender mit einem eigenen Linux-Server, die die
 
 ---
 
+## 📖 Über GLX Mail Server
+
+### Dein eigenes Webmail, auf deinem eigenen Server
+
+GLX Mail Server ist ein Webmail, das auf deinem eigenen Webspace oder Server läuft. Eine Installationsdatei (PHP) hochladen, im Browser öffnen und der Einrichtung folgen, oder bequem von Windows aus per SSH installieren.
+
+### Im Browser und als App
+
+Du und deine Benutzer lest und schreibt Mails im Browser oder installiert GLX Mail als App (PWA) auf Handy, Tablet und PC, ganz ohne App Store. Es funktioniert mit jedem IMAP/SMTP-Postfach wie web.de, GMX, Gmail oder eigenen Domains, die Server werden automatisch erkannt.
+
+### Alles, was du brauchst
+
+Moderne Ansicht in drei Spalten mit Ordnern, Suche, Entwürfen und Anhängen mit Vorschaubildern, große Fotos werden automatisch verkleinert. Push-Benachrichtigungen aufs Handy, ein Kalender mit CalDAV-Abgleich, Abos, Erinnerungen und Kalenderwochen, Kontakte mit Adressvorschlägen. Mails lassen sich offline lesen und schreiben und werden später abgeglichen.
+
+### Sicher und aktuell
+
+Updates in der App sind signiert. 12 Designs, Deutsch und Englisch, derselbe Funktionsumfang wie GLX Mail für Windows. 14 Tage kostenlos testen, danach mit Lizenz-Token freischalten.
+
+---
+
 ## 📸 Überblick & Screenshots
 
 ### 1️⃣ Anmeldeseite
